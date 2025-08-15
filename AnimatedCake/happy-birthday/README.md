@@ -1,18 +1,5 @@
 # Happy Birthday! 🎂👇
 
-A Pen created on CodePen.
-
-Original URL: [https://codepen.io/jh3y/pen/BaobKOJ](https://codepen.io/jh3y/pen/BaobKOJ).
-
-Made a "Happy Birthday" button for this week's "Making awesome things for awesome people!"
-
-There's sound of course!
-
-Built with GreenSock.
-
-Enjoy! 😎
-
------
 
 Sounds courtesy of [freesound.org](https://freesound.org)
 
